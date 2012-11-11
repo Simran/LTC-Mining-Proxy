@@ -1,0 +1,9 @@
+[SERVER]
+; Server Config
+SERVPORT=9332
+
+[POOL]
+; Pool Config
+POOL=notroll.in
+POOLPORT=6332
+WORKER=Simran.simran:william

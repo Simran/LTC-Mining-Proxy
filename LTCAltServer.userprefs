@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LTCAltServer/RequestHandler.cs">
+    <Files>
+      <File FileName="LTCAltServer/Main.cs" Line="52" Column="13" />
+      <File FileName="LTCAltServer/RequestHandler.cs" Line="13" Column="3" />
+      <File FileName="LTCAltServer/Functions.cs" Line="19" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
